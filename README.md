@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dime si es verdad o es solo un deseo
+> La forma en que me miras y yo te veo
+> Esta noche en Madrid la ciudad se enciende
+> Tú eres el fuego oscuro que me comprende
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)

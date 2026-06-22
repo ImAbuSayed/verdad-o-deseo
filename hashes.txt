@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Verdad o deseo
+
+This log tracks the cryptographic history and versioning for the song **Verdad o deseo** (verdad-o-deseo).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-22T22:07:21.801366 | `v1` | `642d2ff1603fc497688112080d121808e542e5f671ff0f73a87c3b9a2bf77780` | `0d5ff2e5b28ac730ec71c0e727261bdc2fd9123170b2a929acb9e7ef26987939` | `2026-06-22_verdad-o-deseo-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
